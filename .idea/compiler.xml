@@ -19,8 +19,11 @@
         <module name="config-article" />
         <module name="config-client" />
         <module name="config-eureka" />
+        <module name="config2" />
+        <module name="config3" />
         <module name="eureka" />
         <module name="eureka2" />
+        <module name="ha-config-eureka" />
         <module name="security" />
         <module name="service" />
         <module name="serviceapi" />

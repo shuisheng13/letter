@@ -29,10 +29,13 @@
             <module>eureka</module>
             <module>eureka2</module>
             <module>config-eureka</module>
+            <module>ha-config-eureka</module>
             <module>service</module>
             <module>turbine</module>
             <module>zuul-gateway</module>
             <module>config</module>
+            <module>config2</module>
+            <module>config3</module>
             <module>config-client</module>
 
         </modules>

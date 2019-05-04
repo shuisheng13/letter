@@ -1,3 +1,4 @@
+/*
 package com.yhh.practice.configclient.controller;
 
 import org.springframework.beans.factory.annotation.Value;
@@ -17,3 +18,4 @@ public String getConfig() {
         + this.eurekaServers;
         }
         }
+*/

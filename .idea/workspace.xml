@@ -2,45 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a3cbf3-072e-4c23-b2d1-49fcea40ba63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-article/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/controller/ConfigClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-eureka/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/article/target/letter.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/target/surefire-reports/TEST-com.yhh.practice.article.product.ProductServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/article/target/surefire-reports/TEST-com.yhh.practice.article.product.ProductServiceTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article/target/surefire-reports/com.yhh.practice.article.product.ProductServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/article/target/surefire-reports/com.yhh.practice.article.product.ProductServiceTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article2/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/article2/target/letter.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article2/target/surefire-reports/TEST-com.yhh.practice.article.product.ProductServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/article2/target/surefire-reports/TEST-com.yhh.practice.article.product.ProductServiceTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article2/target/surefire-reports/com.yhh.practice.article.product.ProductServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/article2/target/surefire-reports/com.yhh.practice.article.product.ProductServiceTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article3/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/article3/target/letter.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article3/target/surefire-reports/TEST-com.yhh.practice.article.product.ProductServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/article3/target/surefire-reports/TEST-com.yhh.practice.article.product.ProductServiceTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article3/target/surefire-reports/com.yhh.practice.article.product.ProductServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/article3/target/surefire-reports/com.yhh.practice.article.product.ProductServiceTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_hystrix/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/article_hystrix/target/letter.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_hystrix/target/surefire-reports/TEST-com.yhh.practice.article.product.ProductServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/article_hystrix/target/surefire-reports/TEST-com.yhh.practice.article.product.ProductServiceTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article_hystrix/target/surefire-reports/com.yhh.practice.article.product.ProductServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/article_hystrix/target/surefire-reports/com.yhh.practice.article.product.ProductServiceTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/comsumer-hystrix-dashboard/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/comsumer-hystrix-dashboard/target/letter.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/comsumer/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/comsumer/target/letter.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/comsumer_feign/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/comsumer_feign/target/letter.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/comsumer_hystrix/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/comsumer_hystrix/target/letter.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/comsumer_rabbion/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/comsumer_rabbion/target/letter.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/target/letter.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka2/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eureka2/target/letter.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/controller/ConfigClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/controller/ConfigClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config2/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config2/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config3/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config3/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/security/target/letter.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-api/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/letter.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turbine/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/turbine/target/letter.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/user/target/letter.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuul-gateway/target/letter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/zuul-gateway/target/letter.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,6 +46,9 @@
     <ignored path="$PROJECT_DIR$/config-client/target/" />
     <ignored path="$PROJECT_DIR$/config-eureka/target/" />
     <ignored path="$PROJECT_DIR$/config-article/target/" />
+    <ignored path="$PROJECT_DIR$/ha-config-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/config2/target/" />
+    <ignored path="$PROJECT_DIR$/config3/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,69 +58,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-article/src/main/resources/bootstrap.yml">
+        <entry file="file://$PROJECT_DIR$/config/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="265">
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-article/pom.xml">
+        <entry file="file://$PROJECT_DIR$/config2/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-421">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="-248">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-article/src/main/java/com/yhh.article/ConfigArticleApplication.java">
+        <entry file="file://$PROJECT_DIR$/config3/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="264">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-eureka/src/main/java/com/yhh/eureka/ConfigEurekaApplication.java">
+        <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
+            <state relative-caret-position="300">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-eureka/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
-              <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config-eureka/src/main/resources/bootstrap.yml">
+        <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="141">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/article3/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/controller/ConfigClientController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/yhh/eureka/EurekaApplication1.java">
+        <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/ConfigClientApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
+            <state relative-caret-position="175">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -147,17 +132,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+            <state relative-caret-position="150">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-article/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/config/src/main/java/com/yhh/practice/config/ConfigApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="185">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -190,15 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/comsumer_feign_hystrix/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/comsumer_hystrix/src/main/java/com/yhh/comsumer/ComsumerApplication.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/yhh/service/IProductClientService.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/yhh/service/fallback/IProductClientServiceFallbackFactory.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/yhh/service/fallback/FeignClientConfig.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/yhh/service/feigin/FeignClientConfig.java" />
-        <option value="$PROJECT_DIR$/comsumer_feign/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/article_hystrix/src/main/java/com/yhh.article/controller/ProductController.java" />
-        <option value="$PROJECT_DIR$/comsumer_hystrix/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/comsumer_hystrix-dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/comsumer-hystrix-dashboard/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/comsumer-hystrix-dashboard/src/main/resources/application.yml" />
@@ -224,16 +203,10 @@
         <option value="$PROJECT_DIR$/comsumer_feign/src/main/java/com/yhh/comsumer/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/eureka/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/config/src/main/java/com/yhh/practice/config/ConfigApplication.java" />
-        <option value="$PROJECT_DIR$/config/pom.xml" />
-        <option value="$PROJECT_DIR$/config/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/controller/ConfigClientController.java" />
-        <option value="$PROJECT_DIR$/config-client/pom.xml" />
         <option value="$PROJECT_DIR$/config-client/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/config-eureka/src/main/java/com/yhh/eureka/ConfigEurekaApplication.java" />
         <option value="$PROJECT_DIR$/config-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/config-eureka/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/config-article/pom.xml" />
         <option value="$PROJECT_DIR$/config-article/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/config-article/src/main/java/com/yhh.article/ConfigArticleApplication.java" />
@@ -241,6 +214,21 @@
         <option value="$PROJECT_DIR$/config-article/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/config-article/src/test/java/com/yhh/practice/article/product/ProductServiceTest.java" />
         <option value="$PROJECT_DIR$/config-eureka/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/ha-config-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/ha-config-eureka/src/main/java/com/yhh/eureka/HaConfigEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/ha-config-eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/config3/pom.xml" />
+        <option value="$PROJECT_DIR$/config2/pom.xml" />
+        <option value="$PROJECT_DIR$/config2/src/main/java/com/yhh/practice/config/ConfigApplication2.java" />
+        <option value="$PROJECT_DIR$/config3/src/main/java/com/yhh/practice/config/ConfigApplication3.java" />
+        <option value="$PROJECT_DIR$/config/pom.xml" />
+        <option value="$PROJECT_DIR$/config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config3/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config2/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/controller/ConfigClientController.java" />
+        <option value="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml" />
       </list>
     </option>
   </component>
@@ -257,20 +245,20 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="config-article" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="config3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="config-article" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="config3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="letter" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="letter" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -302,42 +290,25 @@
             <path>
               <item name="letter" type="b2602c69:ProjectViewProjectNode" />
               <item name="letter" type="462c0819:PsiDirectoryNode" />
-              <item name="config-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="letter" type="b2602c69:ProjectViewProjectNode" />
               <item name="letter" type="462c0819:PsiDirectoryNode" />
-              <item name="config-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="letter" type="b2602c69:ProjectViewProjectNode" />
               <item name="letter" type="462c0819:PsiDirectoryNode" />
-              <item name="config-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="letter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="letter" type="462c0819:PsiDirectoryNode" />
-              <item name="config-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="letter" type="b2602c69:ProjectViewProjectNode" />
               <item name="letter" type="462c0819:PsiDirectoryNode" />
-              <item name="config-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="letter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="letter" type="462c0819:PsiDirectoryNode" />
-              <item name="config-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -356,14 +327,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556972243049" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556980105821" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/article/src/main/java/com/yhh.article/vo/Article.java" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/comsumer/src/main/java/com/yhh/practice/comsumer" />
   </component>
@@ -395,7 +366,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigEurekaApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigClientApplication">
     <configuration name="ArticleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="article" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhh.article.ArticleApplication" />
@@ -424,19 +395,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="comsumer_feign" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yhh.comsumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhh.comsumer.ComsumerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ComsumerHystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="comsumer-hystrix-dashboard" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhh.practice.comsumerhystrixdashboard.ComsumerHystrixDashboardApplication" />
@@ -447,6 +405,32 @@
     <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhh.practice.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yhh.practice.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhh.practice.config.ConfigApplication2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yhh.practice.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhh.practice.config.ConfigApplication3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -491,15 +475,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaApplication1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="eureka" />
+    <configuration name="HaConfigEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ha-config-eureka" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yhh.eureka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhh.eureka.EurekaApplication1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhh.eureka.HaConfigEurekaApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -507,19 +491,6 @@
     <configuration name="TurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="turbine" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhh.practice.turbine.TurbineApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="user" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yhh.practice.comsumerhystrixdashboard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhh.practice.comsumerhystrixdashboard.UserApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -542,19 +513,19 @@
       <item itemvalue="Spring Boot.ConfigApplication" />
       <item itemvalue="Spring Boot.ConfigClientApplication" />
       <item itemvalue="Spring Boot.ArticleHystrixApplication" />
-      <item itemvalue="Spring Boot.ComsumerApplication" />
-      <item itemvalue="Spring Boot.UserApplication" />
-      <item itemvalue="Spring Boot.EurekaApplication1" />
       <item itemvalue="Spring Boot.ConfigEurekaApplication" />
       <item itemvalue="Spring Boot.ConfigArticleApplication" />
+      <item itemvalue="Spring Boot.HaConfigEurekaApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication2" />
+      <item itemvalue="Spring Boot.ConfigApplication3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConfigApplication3" />
+        <item itemvalue="Spring Boot.ConfigApplication2" />
+        <item itemvalue="Spring Boot.HaConfigEurekaApplication" />
         <item itemvalue="Spring Boot.ConfigEurekaApplication" />
         <item itemvalue="Spring Boot.ConfigArticleApplication" />
-        <item itemvalue="Spring Boot.EurekaApplication1" />
-        <item itemvalue="Spring Boot.UserApplication" />
-        <item itemvalue="Spring Boot.ComsumerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -583,7 +554,7 @@
       <workItem from="1555916539109" duration="656000" />
       <workItem from="1555919334232" duration="607000" />
       <workItem from="1556935909267" duration="12944000" />
-      <workItem from="1556970156869" duration="2210000" />
+      <workItem from="1556970156869" duration="5641000" />
     </task>
     <servers />
   </component>
@@ -599,12 +570,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60367000" />
+    <option name="totallyTimeSpent" value="63798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1278" height="726" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36288998" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36288998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -614,8 +586,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.30639732" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44519392" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49917898" visible="true" weight="0.20067453" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23102866" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49917898" visible="true" weight="0.27487352" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -678,82 +650,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/eureka2/src/main/java/com/yhh/eureka/EurekaApplication2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/article2/src/main/java/com/yhh.article/ArticleApplication2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/article3/src/main/java/com/yhh.article/ArticleApplication3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/article_hystrix/src/main/java/com/yhh.article/ArticleHystrixApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comsumer/src/main/java/com/yhh/comsumer/ComsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comsumer-hystrix-dashboard/src/main/java/com/yhh/practice/comsumerhystrixdashboard/ComsumerHystrixDashboardApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comsumer_feign/src/main/java/com/yhh/comsumer/ComsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/src/main/java/com/yhh/practice/comsumerhystrixdashboard/UserApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-gateway/src/main/java/com/yhh/practice/zuulgateway/ZuulGatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -839,51 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/ConfigClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/controller/ConfigClientController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config-eureka/src/main/java/com/yhh/eureka/EurekaSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -891,13 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -960,27 +804,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/src/main/java/com/yhh/practice/config/ConfigApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/yhh/eureka/EurekaApplication1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -1004,28 +831,28 @@
     <entry file="file://$PROJECT_DIR$/config-article/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config-article/src/main/java/com/yhh.article/ConfigArticleApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="27" />
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config-eureka/src/main/java/com/yhh/eureka/ConfigEurekaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config-eureka/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -1033,6 +860,138 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ha-config-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ha-config-eureka/src/main/java/com/yhh/eureka/EurekaSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config3/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ha-config-eureka/src/main/java/com/yhh/eureka/HaConfigEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config2/src/main/java/com/yhh/practice/config/ConfigApplication2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config3/src/main/java/com/yhh/practice/config/ConfigApplication3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ha-config-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/src/main/java/com/yhh/practice/config/ConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config3/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/ConfigClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/yhh/practice/configclient/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1088,7 +1047,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>config-client</last-edited>
+          <last-edited>config2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
