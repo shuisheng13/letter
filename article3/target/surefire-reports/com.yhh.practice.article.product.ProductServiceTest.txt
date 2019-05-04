@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.yhh.practice.article.product.ProductServiceTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 6.329 sec <<< FAILURE!
-testAdd(com.yhh.practice.article.product.ProductServiceTest)  Time elapsed: 0.005 sec  <<< ERROR!
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 6.195 sec <<< FAILURE!
+testAdd(com.yhh.practice.article.product.ProductServiceTest)  Time elapsed: 0.006 sec  <<< ERROR!
 java.lang.IllegalStateException: Failed to load ApplicationContext
 	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125)
 	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108)

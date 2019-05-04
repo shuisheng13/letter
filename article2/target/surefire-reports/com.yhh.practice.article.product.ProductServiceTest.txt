@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.yhh.practice.article.product.ProductServiceTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 6.602 sec <<< FAILURE!
-testAdd(com.yhh.practice.article.product.ProductServiceTest)  Time elapsed: 0.006 sec  <<< ERROR!
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 6.648 sec <<< FAILURE!
+testAdd(com.yhh.practice.article.product.ProductServiceTest)  Time elapsed: 0.007 sec  <<< ERROR!
 java.lang.IllegalStateException: Failed to load ApplicationContext
 	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125)
 	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108)
@@ -138,7 +138,7 @@ Caused by: java.lang.IllegalStateException: Cannot load driver class: com.mysql.
 	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
 	... 103 more
 
-testGet(com.yhh.practice.article.product.ProductServiceTest)  Time elapsed: 0 sec  <<< ERROR!
+testGet(com.yhh.practice.article.product.ProductServiceTest)  Time elapsed: 0.001 sec  <<< ERROR!
 java.lang.IllegalStateException: Failed to load ApplicationContext
 	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:125)
 	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:108)
